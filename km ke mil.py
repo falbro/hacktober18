@@ -6,4 +6,4 @@ fak_konv = 0.621371
 
 # Konversi ke mil
 mil = kilometer * fak_konv
-print('%0.2f kilometer is equal to %0.2f mil' %(kilometer,mil))
+print('%0.2f kilometer sama dengan %0.2f mil' %(kilometer,mil))
