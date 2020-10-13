@@ -1,0 +1,3 @@
+SELECT COUNT(IDSiswa), Asal
+FROM Siswa
+GROUP BY Asal;
